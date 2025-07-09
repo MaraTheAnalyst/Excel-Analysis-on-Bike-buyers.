@@ -4,6 +4,9 @@
 
 This data analysis project explores bike sales across Europe, the Pacific, and North America to uncover trends and better understand the company’s target audience. The goal is to generate data-driven insights and recommendations for improved decision-making.
 
+![Dashboard](https://github.com/user-attachments/assets/e6fe615f-f65f-4084-a26d-3b7bf494b13e)
+
+
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the “customers’ database.xlsx” file, which contains detailed information about each customer who purchased a bike from the company.
